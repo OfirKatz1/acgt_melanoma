@@ -1,9 +1,9 @@
 
 ### Ophir:
 - [ ] load the data with R
-- [ ] algos: \n
-              - [ ] 3
-             - [ ] 4
+- [ ] algos: 
+             -  [ ] 3
+             -  [ ] 4
 
 #### Nevo:
 - [ ] normalize data: gene expression, mirna
