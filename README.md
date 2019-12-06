@@ -6,7 +6,7 @@
              - [ ] 4
 
 #### Nevo:
-- [ ] normalize data: gene expression, mirna
+- [x] normalize data: gene expression, mirna
 - [ ] algos:
              - [ ] 1
              - [ ] 2
